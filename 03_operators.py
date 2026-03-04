@@ -22,7 +22,4 @@ e = True or False
 print(e)
 
 # truth table of or
-print("true or false is",True or False)
-print("true or true is",True or False)
-print("false or true is",False or True)
-print("false or false is",False or False)
+print("true or false is",True or Fal
