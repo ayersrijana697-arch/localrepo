@@ -4,4 +4,4 @@ print(friends[0])
 friends[0] = "grapes"# unlike strings list are mutable
 
 print(friends[0])
-print(friends[1:4])
+print(friends[1:4])g
